@@ -1,5 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="252" height="140" viewBox="0 0 252 140">
-  <text id="Fanshawe_International_Student" data-name="Fanshawe 
-International 
-Student" transform="translate(126 28)" fill="#fff" font-size="40" font-family="Marion-Bold, Marion" font-weight="700"><tspan x="-94.14" y="0">Fanshawe </tspan><tspan x="-125.84" y="50">International </tspan><tspan x="-68.66" y="100">Student</tspan></text>
+<svg xmlns="http://www.w3.org/2000/svg" width="167.5" height="33" viewBox="0 0 167.5 33">
+  <g id="Group_99" data-name="Group 99" transform="translate(-251 -311)">
+    <text id="FANSHAWE" transform="translate(251 329)" fill="#646469" font-size="20" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">FANSHAWE</tspan></text>
+    <text id="International_Student" data-name="International Student" transform="translate(307 341)" fill="#e2231a" font-size="12" font-family="ArialMT, Arial"><tspan x="0" y="0">International Student</tspan></text>
+    <line id="Line_4" data-name="Line 4" x2="52" transform="translate(366.5 322.5)" fill="none" stroke="#e2231a" stroke-width="2"/>
+    <line id="Line_5" data-name="Line 5" x2="52" transform="translate(251.5 337.5)" fill="none" stroke="#646469" stroke-width="2"/>
+  </g>
 </svg>
